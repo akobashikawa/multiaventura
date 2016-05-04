@@ -9,6 +9,6 @@ El camino desciende suavemente mientras caminas con facilidad, calentado por el 
 
 Quizás aparezca la Luna y pueda seguir caminando bajo su pálido brillo. O quizás no lo haga hasta muy tarde y aunque hayan muchas estrellas esté tan oscura la noche que sea mejor aguardar en un refugio hasta que haya más luz.
 
-[Seguir caminando](http://seguir-caminado.com)
+[Seguir caminando](https://github.com/akobashikawa/multiaventura/tree/01-seguir-caminando)
 
-[Buscar un refugio](http://buscar-refugio.com)
+[Buscar un refugio](https://github.com/akobashikawa/multiaventura/tree/01-buscar-refugio)
